@@ -18,5 +18,8 @@
   "homepage": "https://github.com/cookingeek/iobroker-hc-sr04#readme",
   "devDependencies": {
     "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "hc-sr04": "^0.0.1"
   }
 }
